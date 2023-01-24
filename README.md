@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Junaid Arshad
 - 👀 I’m interested in Full stack Webdevelopment
-- 🌱 I’m currently learning React & Node JS.
+- 🌱 I’m currently learning Javascript and React JS.
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me muhammadjunaidarshad.com
 
